@@ -8,6 +8,11 @@ body {
   width: 100%;
   font-family: "Cinzel", serif;
    
+} 
+
+#container-information{ 
+    margin-top: 105px; 
+    padding-bottom: 1px;
 }
 
 .bg-img{
@@ -211,5 +216,5 @@ p{
   background-color: #ffffff;
   box-shadow: 0 4px rgb(200, 24, 24);
   transform: translateY(6px);
-
+}
 
